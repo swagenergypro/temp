@@ -6,7 +6,7 @@ var engine,world
 
 
 function setup() {
-  createCanvas(400,400);
+  createCanvas(400,430);
   
   engine = Engine.create();
   world = engine.world;
